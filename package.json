@@ -21,6 +21,10 @@
   ],
   "author": "Austin Koeppel",
   "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^3.5.0",
+    "nodemon": "^1.11.0"
+  },
   "dependencies": {
     "body-parser": "^1.18.2",
     "axios": "^0.18.0",
